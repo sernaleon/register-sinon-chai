@@ -1,0 +1,33 @@
+{
+  "name": "register-sinon-chai",
+  "version": "1.0.0",
+  "description": "Registers sinon and chai",
+  "main": "register.js",
+  "scripts": {
+    "test": "register.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sernaleon/register-sinon-chai.git"
+  },
+  "keywords": [
+    "mocha",
+    "require",
+    "sinon",
+    "chai",
+    "register"
+  ],
+  "engines": {
+  "node": ">=6.11.1 <8"
+},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "sinon": "^2.2.0"
+  },
+  "author": "Arturo Serna Leon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sernaleon/register-sinon-chai/issues"
+  },
+  "homepage": "https://github.com/sernaleon/register-sinon-chai#readme"
+}
